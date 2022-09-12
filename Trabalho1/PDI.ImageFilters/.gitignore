@@ -32,6 +32,6 @@
 *.app
 
 # Output
-output/*.png
+# output/*.png
 x64
 .vs/
