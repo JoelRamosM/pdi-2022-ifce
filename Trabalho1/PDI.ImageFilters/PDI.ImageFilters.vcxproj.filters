@@ -18,9 +18,6 @@
     <ClCompile Include="PDI.ImageFilters.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="LowPassFilters.h">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="LowPassFilters.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -30,13 +27,16 @@
     <ClCompile Include="ImageOperations.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="LowPassFilters.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="HighPassFilter.h">
-      <Filter>Source Files</Filter>
+      <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="ImageOperations.h">
-      <Filter>Source Files</Filter>
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
