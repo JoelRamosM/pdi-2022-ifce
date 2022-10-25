@@ -101,5 +101,5 @@ void filtro_sobel(const Mat* image, Mat* result)
 
 	apply_2d_filter(image, result, k_len, kernel_ph, kernel_pv, hood_factor);
 
-	std::cout << "Prewitt";
+	std::cout << "Sobel";
 }
