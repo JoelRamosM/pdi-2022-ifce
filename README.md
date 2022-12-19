@@ -19,3 +19,7 @@
 # Trabalho 02
 
 + Implementação: Arquivo `Trabalho2\PDI.Trabalho2\PDI.Trabalho2.cpp`;
+
+# Trabalho 03
+
++ Implementação no notebook: `trabalho3/feature_extraction.ipynb`;
